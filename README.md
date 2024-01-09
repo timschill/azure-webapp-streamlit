@@ -8,4 +8,8 @@ Currently supports building the app upon the official python docker image (Docke
 
 ### Build and deploy
 
-Run build.sh with an argument used as tag for our image.
+Run build.sh with an argument used as tag for our image, e.g
+
+```
+./build.sh v1
+```
