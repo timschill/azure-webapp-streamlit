@@ -1,6 +1,6 @@
 # Azure WebApp Streamlit
 
-A simple bootstrap setup for getting up and running with streamlit as a webap in Azure
+A simple bootstrap setup for getting up and running with streamlit as a webap in Azure.
 
 ### Dockerfiles
 
